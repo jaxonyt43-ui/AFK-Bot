@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "AFK-BOT",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "CozyGroveSMP.aternos.me",
     "port": 24773,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
